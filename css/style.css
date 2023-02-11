@@ -3,8 +3,13 @@ h1, h2, h3 , h4, h5, h6 {
     font-family: "Racing Sans One";
     text-align: center;
   }
+
   p {
     font-family: "Radio Canada";
+  }
+
+  .row h2{
+    text-align: center;
   }
   
   /* Navigation bar */
@@ -113,12 +118,12 @@ h1, h2, h3 , h4, h5, h6 {
     }
 }
   
-  /* Content */
+  /* Carousel */
 
   
   /* Footer */
   .emailContain {
-    background: url(../images/emailBG.jpg);
+    background: url(../Images/Thanks.png);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -127,19 +132,7 @@ h1, h2, h3 , h4, h5, h6 {
     justify-content: center;
     height: 500px;
   }
-  
-  /* Footer form */
-  form {
-    width: 500px;
-    margin: 35px auto;
-    padding: 45px;
-    border: 1px solid #F2F2F2;
-    -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-    -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
-    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1);
-    background-color: white;
-  }
-  
+    
   /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
   .dropdown-menu {
     left: -97px;
