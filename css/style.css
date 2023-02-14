@@ -118,21 +118,7 @@ h1, h2, h3 , h4, h5, h6 {
     }
 }
   
-  /* Carousel */
 
-  
-  /* Footer */
-  .emailContain {
-    background: url(../Images/Thanks.png);
-    background-size: cover;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 500px;
-  }
-    
   /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
   .dropdown-menu {
     left: -97px;
